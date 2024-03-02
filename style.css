@@ -1,0 +1,32 @@
+
+.card-A {
+    background-color:#FFD580; 
+    width: 500px; 
+    height: 500px;
+}
+
+.card-B {
+    background-color: #90ee90; 
+    width: 250px; 
+    height: 250px;
+}
+
+.card-C {
+    color: white; 
+    background-color: red; 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+
+.card-D {
+    width: 500px; 
+    height: 50vh; 
+    background-color: lightblue;
+}
+
+.card-E {
+    width: 75vw; 
+    height: 250px;
+    background-color: red;
+}
