@@ -1,32 +1,32 @@
 
 .card-A {
-    background-color:#FFD580; 
-    width: 500px; 
-    height: 500px;
+    background-color:#94269e; 
+    width: 300px; 
+    height: 300px;
 }
 
 .card-B {
-    background-color: #90ee90; 
-    width: 250px; 
-    height: 250px;
+    background-color: #360fc7; 
+    width: 150px; 
+    height: 150px;
 }
 
 .card-C {
-    color: white; 
-    background-color: red; 
-    font-size: 25px; 
+    color: rgb(255, 0, 0); 
+    background-color: rgb(83, 3, 3); 
+    font-size: 20px; 
     font-family: monospace; 
     font-weight: bold;
 }
 
 .card-D {
-    width: 500px; 
-    height: 50vh; 
-    background-color: lightblue;
+    width: 300px; 
+    height: 35vh; 
+    background-color: rgb(32, 111, 138);
 }
 
 .card-E {
-    width: 75vw; 
-    height: 250px;
-    background-color: red;
+    width: 35vw; 
+    height: 150px;
+    background-color: rgb(21, 255, 0);
 }
